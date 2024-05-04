@@ -1,6 +1,6 @@
 {
   "name": "faizee-pro-adventure-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An interactive text-based adventure game built with TypeScript & Node.js",
   "main": "index.js",
   "type": "module",
